@@ -1,0 +1,14 @@
+{
+    "name": "Aqua Team Docs",
+    "version": "1.0.0",
+    "description": "Documentation for Aqua Team's services",
+    "manifest_version": 3,
+    "author": "George Schiopu",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Docs links"
+    },
+    "web_accessible_resources": [
+        "data/*.json"
+    ]
+}

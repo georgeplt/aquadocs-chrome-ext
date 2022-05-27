@@ -1,0 +1,22 @@
+[
+    {
+        "name": "PLT Gateway",
+        "url": "https://prettylittlething.atlassian.net/wiki/spaces/MD/pages/1483374648/API"
+    },
+    {
+        "name": "Category Service",
+        "url": "https://prettylittlething.atlassian.net/wiki/spaces/CS/pages/2322595841/Developer+Documentation+-+Category+service"
+    },
+    {
+        "name": "Redirect Service",
+        "url": "https://prettylittlething.atlassian.net/wiki/spaces/PDT/pages/2113929274/Redirect+Service"
+    },
+    {
+        "name": "CCS",
+        "url": "https://prettylittlething.atlassian.net/wiki/spaces/CCS/pages/375816193/Development+Documentation"
+    },
+    {
+        "name": "QMS (v1)",
+        "url": "https://prettylittlething.atlassian.net/wiki/spaces/CPS/pages/520552467/QMS"
+    }
+]
