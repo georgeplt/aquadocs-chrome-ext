@@ -7,8 +7,5 @@
     "action":{
         "default_popup": "index.html",
         "default_title": "Docs links"
-    },
-    "web_accessible_resources": [
-        "data/*.json"
-    ]
+    }
 }
