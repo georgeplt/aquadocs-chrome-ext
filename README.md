@@ -8,4 +8,4 @@
 1. Open the URL: `chrome://extensions`
 2. Make sure you have `Developer mode` enabled (usually upper-right)
 3. Click `Load Unpacked` and navigate where this repo was cloned
-4. Click `ok/load/open`, depending on your operating system. You should be able to see a new extention in your browser's extensions bar (a pink unicorn).
+4. Click `ok/load/open`, depending on your operating system. You should be able to see a new extension in your browser's extensions bar (a pink unicorn).
