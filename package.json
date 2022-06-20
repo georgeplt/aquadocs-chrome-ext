@@ -1,0 +1,23 @@
+{
+  "name": "aqua-docs-ext",
+  "version": "1.0.0",
+  "description": "aqua team docs links chrome extension",
+  "main": "script.js",
+  "dependencies": {
+    "release-it": "^15.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeplt/aquadocs-chrome-ext.git"
+  },
+  "author": "George Schiopu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeplt/aquadocs-chrome-ext/issues"
+  },
+  "homepage": "https://github.com/georgeplt/aquadocs-chrome-ext#readme"
+}
