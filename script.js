@@ -13,7 +13,7 @@ async function fetchData() {
     .then(res => res.json())
     .then(json => {
         const docsList = buildDocLinks(json);
-        document.getElementById("docz").innerHTML=docsList;
+        document.getElementById("docz").innerHTML = docsList;
     })
     .catch(err => console.log(err));
 }
